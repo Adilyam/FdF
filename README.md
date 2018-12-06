@@ -3,9 +3,8 @@
 
 This project is about creating a simplified graphic “wireframe” (“fils de fer” in french, hence the name of the project) representation of a relief landscape linking various points (x, y, z) via segments.
 
-![](yo2.png)
-![](yo1.png)
-![](yo3.png)
+![](42.png)
+![](mars.png)
 
 ## Installation
 
@@ -18,7 +17,7 @@ make && make clean
 ## Usage example
 
 ```sh
-./fdf scenes/[any file]
+./fdf test_maps/[map]
 ```
 
 ## Meta
