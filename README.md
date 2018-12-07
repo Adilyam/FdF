@@ -8,7 +8,7 @@ This project is about creating a simplified graphic “wireframe” (“fils de 
 
 ## Installation
 
-OS X & Linux & Windows::
+OS X & Linux:
 
 ```sh
 make && make clean
